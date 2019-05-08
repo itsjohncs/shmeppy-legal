@@ -1,4 +1,6 @@
-All contents of this repository are licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License. The full text of the license may be found below.
+All contents of this directory are licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License. The full text of the license may be found below.
+
+The Terms of Service in this directory is a deriviative work of [Automattic](https://automattic.com/about/)'s.
 
 ======
 
