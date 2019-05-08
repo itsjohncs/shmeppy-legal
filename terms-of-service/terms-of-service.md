@@ -1,4 +1,4 @@
-## Terms of Service
+# Terms of Service
 
 These Terms govern your access to and use of Shmeppy.com and Forum.shmeppy.com as well as all content and Shmeppy products and services available at or though these websites (collectively, “Services”). For some of Shmeppy’s other products and services, such as Forum.shmeppy.com, additional Terms of Service may apply and will be posted on the websites for those products and services. Our Services are offered subject to your acceptance, without modification, of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, [Shmeppy’s Privacy Policy](https://shmeppy.com/about/privacy)), and procedures that may be published from time to time by Shmeppy (collectively, the “Agreement”). You agree that we may automatically upgrade our Services, and the Agreement will apply to any upgrades. Please read the Agreement carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to become bound by the Agreement. If you do not agree to all the terms of the Agreement, then you may not access or use our Services.
 
