@@ -82,11 +82,11 @@ Our Services are provided “as is.” Shmeppy and its suppliers and licensors h
 
 ## 12\. Jurisdiction and Applicable Law.
 
-Except to the extent any applicable law provides otherwise, the Agreement and any access to or use of our Services will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions. The proper venue for any disputes arising out of or relating to the Agreement and any access to or use of our Services will be the state and federal courts located in Santa Clara County, California.
+Except to the extent any applicable law provides otherwise, the Agreement and any access to or use of our Services will be governed by the laws of the state of Oregon, U.S.A., excluding its conflict of law provisions. The proper venue for any disputes arising out of or relating to the Agreement and any access to or use of our Services will be the state and federal courts located in Multnomah County, Oregon.
 
 ## 13\. Arbitration Agreement
 
-Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under the Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in Sunnyvale, California, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce the Agreement shall be entitled to costs and attorneys’ fees.
+Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under the Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in Portland, Oregon, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce the Agreement shall be entitled to costs and attorneys’ fees.
 
 ## 14\. Limitation of Liability
 
